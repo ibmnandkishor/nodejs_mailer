@@ -12,7 +12,6 @@ nodemailer=require('nodemailer')
     })
 // }
 
-//mail object
 
 mail={
     from:'aditibm7235@gmail.com',
